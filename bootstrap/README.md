@@ -5,5 +5,5 @@ Includes:
 - A WebRTC Signaling Server
 
 ## Setup
-1. Install the node modules `npm clean-install`
+1. Install the node modules `npm install`
 1. Run the Bootstrap server `npm start`
