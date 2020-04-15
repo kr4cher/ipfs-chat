@@ -5,10 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start:node": "node bootstrap/index.js",
-    "start:app": "",
+    "start:app": "parcel client/index.html -d ./client/dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kr4cher/ipfs-chat.git"
