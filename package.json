@@ -1,0 +1,22 @@
+{
+  "name": "ipfs-chat",
+  "version": "1.0.0",
+  "description": "P2P-Chat over the IPFS network",
+  "main": "index.js",
+  "scripts": {
+    "start:node": "node bootstrap/index.js",
+    "start:app": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr4cher/ipfs-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kr4cher/ipfs-chat/issues"
+  },
+  "homepage": "https://github.com/kr4cher/ipfs-chat#readme"
+}
