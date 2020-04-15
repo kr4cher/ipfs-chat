@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html -d ./dist",
-    "start:react": "react-script start",
+    "start": "parcel index.html",
+    "start:build": "parcel index.html -d ./dist",
     "lint": "standard"
   },
   "keywords": [],
